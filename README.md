@@ -33,9 +33,7 @@
 
 <br/>
 
-<a href="https://github.com/douglasmsi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasmsi&theme=dracula&show_icons=true" />
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasmsi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="douglasmsi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmsi&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <h3>Where to Find Me</h3>
 
